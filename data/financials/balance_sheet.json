@@ -1,0 +1,18 @@
+{
+    "assets": {
+        "current_assets": 1498,
+        "non_current_assets": 1223
+    },
+    "liabilities": {
+        "current_liabilities": 398,
+        "non_current_liabilities": 106
+    },
+    "equity": {
+        "common_stock": 175,
+        "preferred_stock": 0.00,
+        "other_equity_total": 818,
+        "total_common_shares": 17,
+        "debt_to_equity": 0.36,
+        "book_value": 56
+    }
+}

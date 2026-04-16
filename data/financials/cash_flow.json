@@ -1,0 +1,18 @@
+{
+    "opening_cash_flow": 0.87,
+    "operations": {
+        "cash_flow": -46.6,
+        "change_in_working_capital": -249.59 
+    },
+    "investment": {
+        "capital_expense": -46.63,
+        "others": -216.60
+    },
+    "finance": {
+        "cash_dividends": 0.00,
+        "net_stock_issuance": 526,
+        "net_debt_issuance": -0.24
+    },
+    "closing_cash_balance": 162,
+    "net_change_in_cash": 161
+}

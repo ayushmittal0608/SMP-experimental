@@ -1,0 +1,22 @@
+{
+    "particulars": {
+        "revenue": {
+            "operations": 250,
+            "others": 8
+        },
+        "expenses": {
+            "general": 9,
+            "total_operating_expense": 190
+        },
+        "ebitda": 76,
+        "ebit": 68,
+        "profit_without_tax": 58,
+        "net_profit": 42
+    },
+    "financial_ratio": {
+        "profit_margin": 30.49,
+        "net_profit_margin": 16.15,
+        "earning_per_share": 2.30,
+        "dividends_per_share": 0.00
+    }
+}
