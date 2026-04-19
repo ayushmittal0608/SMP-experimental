@@ -56,6 +56,7 @@ Now, we need to review the industry limit to view whether net profit margin is a
 $$ Earning per share(EPS) = (net profit - total dividends) / number of shares $$
 
 Here,
+
 $$ number of shares = (net profit - total dividends) / EPS = (42 - 0) / 2.30 = 18.6cr $$
 
 4. Total Dividends: It is the measure of how much EPS the company is not using for its company growth like if there is a dividend of 1.00, then only 1.30 part is being utilised by company for buying assets or investment as a part of company's bank account.
