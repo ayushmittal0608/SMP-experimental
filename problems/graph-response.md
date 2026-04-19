@@ -16,8 +16,9 @@ So, {low[v]>discovery[u] && bridges.push_back({u, v})} || {low[v]>discovery[u] ?
 - discovery[u]: time at which node u was first visited.
 - low[u]: lowest discovery time reachable from u using back edges, which means that like in the above case, 2 is connected to 0, so the lowest discovery time would become discovery[0] time as the process started from there, so it would have minimum time, so now for 2, it becomes lowest discovery time.
 
-$$ low[u] = min(low[u], discovery[v]); $$ (back edge)
-$$ low[u] = min(low[u], low[v]); $$ (tree edge)
+$$ low[u] = min(low[u], discovery[v]); (back edge) $$
+
+$$ low[u] = min(low[u], low[v]); (tree edge) $$
 
 So, now we have to calculate bridge edges and now we know how to do it, but we need to discuss edge cases first, like:
 1. if(v==parent){ continue; }
