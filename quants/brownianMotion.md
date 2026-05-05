@@ -19,17 +19,17 @@ Now, in order to optimise the brownian motion for finance particularly, weiner p
 Weiner process is also known as scaling invariance as he predicts that if we go from $B_t$ to $\theta B_t$, time changes from $t$ to $\theta^2 t$.
 
 ## Moment of Brownian Motion
-Now, moment of brownian motion depicts the shape of probability curve, it tells about the position, volatility and skewness of curves as the moment increases. Now, moment is calculated as per exponential series because the model of scaling that weiner proposed, involved scaling to $\theta^2 t$. Now, we have an arithematic expression for $$E[e^Y] = e^{E[Y] + \frac{1}{2}V[Y]}$$, where we put V[Y]=$e^{\frac{1}{2} \theta^2 t}$. Now, we will find all order derivatives and put $\theta$ as 0, finally, we will get all the moments and what we notice will be that all the odd derivatives will be 0.
+Now, moment of brownian motion depicts the shape of probability curve, it tells about the position, volatility and skewness of curves as the moment increases. Now, moment is calculated as per exponential series because the model of scaling that weiner proposed, involved scaling to $\theta^2 t$. Now, we have an arithematic expression for $$E[e^Y] = e^{E[Y] + \frac{1}{2}V[Y]}$$, where we put $V[Y]=e^{\frac{1}{2} \theta^2 t}$. Now, we will find all order derivatives and put $\theta$ as 0, finally, we will get all the moments and what we notice will be that all the odd derivatives will be 0.
 
 Why is all odd derivatives 0 here? 
 It is because we need to scale the terms in positive direction which can only be achieved through even order derivatives while odd order derivatives might lead to negative direction which can't be possible. While calculation, we notice that every value cuts every other value to nullify its effect which gives us an insight about the behaviour of odd terms and how they are contributing in price fluctuations by moving to and fro within the price limit only.
 
 Now, comes the expression for calculation of moment of brownian motion:
-- E[$B_t^{2k+1}$] = 0, for n=1,3,5,...
-- E[$B_t^{2k}$] = (2k-1)!! $t^k$, for n=2,4,6,...
+- $E[B_t^{2k+1}]$ = 0, for n=1,3,5,...
+- $E[B_t^{2k}]$ = (2k-1)!! $t^k$, for n=2,4,6,...
 
 Let's say we need to calculate the next moment and prev moment is given to us, we follow the following expression:
-E[$B_t^{2k+1}$] = 2t(k+$\frac{1}{2}$) E[$B_t^{2k}$]
+$E[B_t^{2k+1}]$ = $2t(k+\frac{1}{2}) E[B_t^{2k}]$
 
 ## Stochastic Calculus
 Now, after this, a very interesting concept come which can awaken different dimensions of our mind that it is not necessary whether we are given states, functions, constraints, etc. still, we can't solve the equation because now it doesn't depend only on constraints now but depends upon the event which has occurred at that particular time. 
