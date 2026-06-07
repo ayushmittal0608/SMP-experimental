@@ -1,0 +1,15 @@
+Q. What is an overton window?
+Let's say I have not lived my life with society and have managed to develop my thinking for things in society, now if I go in society and act as per my thinking, people would resist and maybe think that I live in my own world, some might think that I am not having an exposure to society and some may resist my conversations because some might cause a bit of discomfort.
+
+In corporates or offices, we tend to observe such things so often when people point out that this doesn't happen in corporate settings and you need to behave in a certain manner. Now, this is known as overton window. This not only makes us uncomfortable in corporates but also in spending time with our family or friends.
+
+The first part comes the unthinkable where people doesn't think before implementation and just execute it which could cause aftermath repercussions which is obviously a bad idea because they are thinking out of their mind and are hyperactive. This is one part of species for which this window is being designed, if we shift our direction from the opposite to this species lies the another branch of species holding 99% of world which tries to be sophisticated, mature and sound which is a label given to a person that fits within this overton window.
+
+For eg, I visit corporate and say nice shirt, from where have you bought it from? Then person replies I have bought it from this and that brand for this much dollars, this becomes how much professional it is. Now, I visit corporate and people are discussing about something in politics like this country has done a lot of repercussions with our country, and the government have to ban that country, then someone points out at the irony of statement that you are using product of that country only and then people have some discomfort, then start pointing out to the people of their country who haven't built anything, then another irony comes that they are the one who can build it, then they point out to government and slowly matters get dissolved. Now, this is how a person could be able to manage their overton window.
+
+In family and friends, this often happens a lot where everyone wants to be aligned with society and always in competition to their friends who are earning high packages and so they also want to move them but they don't know why they are moving, some are not getting job but they don't want to post anything unprofessional just in a hope to get it someday otherwise if they would be unprofessional, they won't get any job. This is a matrix or a simulation from where no one can get out of in this world. The way to come out of it is discussion and mutual understanding and being outspoken.
+
+In today's time, AI can also explain the things that people know and is explaining to us but what we need is human touch to it which can't be guaranteed if we all live in this overton window.
+
+This is what is known as overton window which is the ultimate matrix or simulation which binds a person and a person might have hands, legs and every body part to perform actions but is binded with their brain stuck in this window.
+
